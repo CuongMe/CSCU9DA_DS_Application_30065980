@@ -1,0 +1,13 @@
+# Local environment
+.venv/
+.claude/
+__pycache__/
+.ipynb_checkpoints/
+
+# Working files, not part of the submission
+Draft.md
+skills-lock.json
+
+# Source dataset (684 MB) - not redistributed here.
+# Download from the authors' figshare record, see README.
+shared_data/

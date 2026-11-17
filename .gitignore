@@ -1,15 +1,14 @@
 # Local environment
 .venv/
 .claude/
-__pycache__/
-.ipynb_checkpoints/
 
-# Drafts and Word exports - the PDFs are the submitted artefacts
-*.docx
+# Drafts and archive artefacts
+*.zip
 *.md
 !README.md
-~$*
-skills-lock.json
+
+# Stray copy of the paper at the project root; the tracked one lives in paper/
+/weis_dawid_2026.pdf
 
 # Source dataset (684 MB) - not redistributed here.
 # Download from the authors' figshare record, see README.

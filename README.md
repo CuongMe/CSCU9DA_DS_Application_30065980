@@ -31,6 +31,7 @@ shared_data/
 
 Everything resolves from `shared_data/study_data/files`, so no paths need editing.
 
+*Manual download link for the author's curated data and own notebook is in the figshare link*
 ## Running it
 
 ```bash

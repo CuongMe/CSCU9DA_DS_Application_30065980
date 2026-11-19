@@ -1,6 +1,7 @@
 # Local environment
 .venv/
 .claude/
+~$*
 
 # Drafts and archive artefacts
 *.md
